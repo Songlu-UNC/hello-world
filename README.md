@@ -1,3 +1,2 @@
-# hello-world
-Song's Repo
-Hi!
+# Read Me
+This is Song's Repo, Welcome
