@@ -5,7 +5,7 @@ conn = psycopg2.connect(
     host="localhost",
     database="CHIP-690-WEB",
     user="postgres",
-    password="12Minecraft",
+    password="",
     port="5432"  # Default is 5432 if not specified
 )
 
